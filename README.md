@@ -1,1 +1,1 @@
-# qt-basic-apps
+![](preview.gif)
